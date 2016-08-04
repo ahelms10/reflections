@@ -1,1 +1,2 @@
-Placeholder Q for Lesson 3      
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+There may be a feature or bug you are working on that you don't want to publish for others to see or to impact your working branch
