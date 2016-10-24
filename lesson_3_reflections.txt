@@ -1,2 +1,10 @@
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 There may be a feature or bug you are working on that you don't want to publish for others to see or to impact your working branch
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+If you are working on a feature that modifies the same part of the code someone else is working on 
+
+Benefits
+-multiple people can work on the codebase at the same time
+-it's easy to merge
